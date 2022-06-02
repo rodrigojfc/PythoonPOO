@@ -7,4 +7,4 @@
 
 ### Utilizando encapsulamiento 
 
-### Al ejecutar Que se cree una cuenta bancaria y ahorros con 1000,  que el codigo me permita hacer las operaciones de retiro y agregar fondos
+### Al ejecutar Que se cree una cuenta bancaria y ahorros con 1000,  que el codigo me permita hacer las operaciones de retiro y agregar fondos, ademas tiene que tener un menu para seleccionar entre cuenta bancaria o cuenta de ahorros punto extra: una opcion para agregar un nueva cuenta 
