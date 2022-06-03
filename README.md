@@ -10,6 +10,21 @@
 
 ### Utilizando encapsulamiento 
 
-### Agregar una opcion para crear un nueva cuenta ahorros o cuenta bancaria y mostrar los datos de la misma
+### Agregar una opcion para crear un nueva cuenta ahorros o cuenta bancaria y mostrar los datos de la misma despues de ser creada
 
 
+#### configurar github: 
+### git config --global user.email "email" 
+### git config --global user.name "username"
+
+## comandos 
+
+### git pull - actualizar repositorio 
+
+### git clone repo-link  --clonar repositorio remoto
+
+## nuevo commit 
+
+### git add . -- agrega los archivos en el directorio a git 
+### git commit -m "mycommit" -- comentarios de los cambios a realizar 
+### git push -- Subir los cambios a git
