@@ -1,10 +1,15 @@
 # sistema bancario en python usando POO
 
 ## Dos objetos cuenta bancaria y cuenta de ahorro,
-## atributos nombre usuario, numero de cuenta, cantidad 
+
+## atributos nombre usuario, numero de cuenta, cantidad
+
+## cuenta ahorro agregar atributo de plazo
 
 ### Metodos en cada objeto para poder ver el balance, retirar, agregar fondos.
 
 ### Utilizando encapsulamiento 
 
-### Al ejecutar Que se cree una cuenta bancaria y ahorros con 1000,  que el codigo me permita hacer las operaciones de retiro y agregar fondos, ademas tiene que tener un menu para seleccionar entre cuenta bancaria o cuenta de ahorros punto extra: una opcion para agregar un nueva cuenta 
+### Agregar una opcion para crear un nueva cuenta ahorros o cuenta bancaria y mostrar los datos de la misma
+
+
